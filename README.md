@@ -20,6 +20,6 @@
 
 2.2
 
-([https://github.com/EkLinnik/hw6/blob/master/hw6(5).png](htps://github.com/EkLinnik/hw6/blob/master/hw6(5).png)
+![https://github.com/EkLinnik/hw6/blob/master/hw6(5).png](htps://github.com/EkLinnik/hw6/blob/master/hw6(5).png)
 
 Слово deliver чаще употребляется с himself, us, her, me. Так же оно употребляется с him, но уже реже. Слова deliver и produce одинаково часто употребляются с you, them, it. Слово produce употребляется со словами  itself, one.
